@@ -1,0 +1,83 @@
+[
+  {
+    "id": 2008,
+    "name": "Ромашки для тебя",
+    "image": "belye_hrizantemy.jpg",
+    "price": 800,
+    "old_price": 900,
+    "description": "Хризантема- 3 шт.\nПапоротник - 3 шт.\nУпаковка - шт.",
+    "category": 68
+  },
+  {
+    "id": 2029,
+    "name": "Букет роз с герберой",
+    "image": "dostavka_cvetov_v_drugoi_gorod.jpg",
+    "price": 990,
+    "old_price": 1190,
+    "description": "Розы 5 шт.\nГербера\nДекоративная зелень\nУпаковка",
+    "category": 68
+  },
+  {
+    "id": 2137,
+    "name": "Нежный",
+    "image": "kupit_gerbery.jpg",
+    "price": 1290,
+    "old_price": 1430,
+    "description": "Герберы - 11 шт\nЗелень\nОформление",
+    "category": 68
+  },
+  {
+    "id": 1994,
+    "name": "Беллатриса",
+    "image": "flower_buket_cvety.jpg",
+    "price": 1490,
+    "old_price": null,
+    "description": "Розы 5 шт.\nГортензии 4 шт.\nОрхидеи 2 шт.\nЗелень\nУпаковка",
+    "category": 68
+  },
+  {
+    "id": 2005,
+    "name": "Милый презент",
+    "image": "flower_magazin_cvetov.jpg",
+    "price": 1490,
+    "old_price": null,
+    "description": "Состав:\nРозы 7 шт.\nАстры 4 шт.\nЗелень\nУпаковка",
+    "category": 68
+  },
+  {
+    "id": 2036,
+    "name": "Валетта",
+    "image": "besplatnaya_dostavka_gerber.jpg",
+    "price": 1500,
+    "old_price": 1700,
+    "description": "7 гербер (цвета на выбор)\nЗелень\nОформление",
+    "category": 68
+  },
+  {
+    "id": 2121,
+    "name": "Изыск",
+    "image": "zakaz_belyh_hrizantem_i_irisov.jpg",
+    "price": 1550,
+    "old_price": null,
+    "description": "Кустовая хризантема - 7 шт\nСтаница - 8 шт\nУпаковка\nЛента",
+    "category": 68
+  },
+  {
+    "id": 1993,
+    "name": "Лиловый шёлк",
+    "image": "cvety_zakazat_v_drugoi_gorod.jpg",
+    "price": 1590,
+    "old_price": 1790,
+    "description": "Розы 6 шт.\nХризантемы 7 шт.\nЗелень\nУпаковка",
+    "category": 68
+  },
+  {
+    "id": 2091,
+    "name": "Стиль",
+    "image": "buket_krasnyh_roz_i_belyh_hrizantem.jpg",
+    "price": 1590,
+    "old_price": null,
+    "description": "Розы - 3 шт\nКустовые хризантемы - 3 шт\nУпаковка\nЛента",
+    "category": 68
+  }
+]

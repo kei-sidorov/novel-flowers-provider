@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1026,
+    "name": "Мягкая игрушка  Динозаврик",
+    "image": "igrushka_dinozavr.jpg",
+    "price": 1800,
+    "old_price": null,
+    "description": "",
+    "category": 73
+  },
+  {
+    "id": 77,
+    "name": "Мишка с фиолетовым бантом",
+    "image": "igrushka_medved.jpg",
+    "price": 2800,
+    "old_price": null,
+    "description": "",
+    "category": 73
+  },
+  {
+    "id": 76,
+    "name": "Оленёнок ручной работы",
+    "image": "olen_ruchnoi_raboty.jpg",
+    "price": 3000,
+    "old_price": null,
+    "description": "в ассортименте",
+    "category": 73
+  },
+  {
+    "id": 1050,
+    "name": "Игрушка Кошка Лили",
+    "image": "kotik_ruchnoi_raboty.jpg",
+    "price": 3000,
+    "old_price": null,
+    "description": "",
+    "category": 73
+  },
+  {
+    "id": 1392,
+    "name": "Зайка ручной работы",
+    "image": "igrushka_zai_ka_ruchnoi_raboty.jpg",
+    "price": 3200,
+    "old_price": 800,
+    "description": "Ручная работа",
+    "category": 73
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1823,
+    "name": "Монобукеты",
+    "image": "authors.png"
+  },
+  {
+    "id": 68,
+    "name": "Готовые букеты",
+    "image": "complete_buket.png"
+  },
+  {
+    "id": 73,
+    "name": "Игрушки",
+    "image": "toys.png"
+  },
+  {
+    "id": 69,
+    "name": "Композиции",
+    "image": "compositions.png"
+  },
+  {
+    "id": 629,
+    "name": "Цветы в коробочках",
+    "image": "flowers-in-box.png"
+  },
+  {
+	  "id": -1,
+	  "name": "Избранное",
+	  "image": "flowers-in-box.png"
+  }
+]

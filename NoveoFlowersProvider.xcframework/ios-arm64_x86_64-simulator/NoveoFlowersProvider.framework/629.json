@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1310,
+    "name": "Единорожка",
+    "image": "belo-golubaya_gipsofila_v_korobke.jpg",
+    "price": 900,
+    "old_price": 1000,
+    "description": "3 гипсофилы\nОформление\nКоробочка ",
+    "category": 629
+  },
+  {
+    "id": 2187,
+    "name": "3 гипсофилы в коробке",
+    "image": "kompoziciya_iz_gipsofil.jpg",
+    "price": 900,
+    "old_price": 1200,
+    "description": "3 гипсофилы\nОформление\nКоробка",
+    "category": 629
+  },
+  {
+    "id": 642,
+    "name": "Маленькая нежность",
+    "image": "belaya_gipsofila_v_korobke.jpg",
+    "price": 1100,
+    "old_price": 1300,
+    "description": "*5 белых гипсофил\nКоробка\nОформление",
+    "category": 629
+  },
+  {
+    "id": 2156,
+    "name": "Микс из гипсофилы",
+    "image": "gipsofila_v_korobke.jpg",
+    "price": 1100,
+    "old_price": 1300,
+    "description": "7 гипсофил\nОформление\nКоробка",
+    "category": 629
+  },
+  {
+    "id": 2219,
+    "name": "5 кустовых хризантем в коробке",
+    "image": "cvety_s_dnem_rozhdeniya.jpg",
+    "price": 1200,
+    "old_price": 1400,
+    "description": "5 кустовых хризантем\nОформление\nКоробка",
+    "category": 629
+  },
+  {
+    "id": 2191,
+    "name": "Воздушная гипсофила",
+    "image": "korobochka_s_gipsofiloi.jpg",
+    "price": 1300,
+    "old_price": null,
+    "description": "5 гипсофил микс\nОформление\nКоробка",
+    "category": 629
+  },
+  {
+    "id": 2208,
+    "name": "Невесомость",
+    "image": "cvety_kompozicii_foto.jpg",
+    "price": 1300,
+    "old_price": 1500,
+    "description": "5 гипсофил\nХлопок\nДекоративная зелень\nОформление\nКоробка",
+    "category": 629
+  },
+  {
+    "id": 2233,
+    "name": "Микс из радужных гипсофил в коробке",
+    "image": "miks_iz_gipsofil_v_korobke.jpg",
+    "price": 1300,
+    "old_price": 1500,
+    "description": "7 гипсофил\nОформление\nКоробка",
+    "category": 629
+  },
+  {
+    "id": 2030,
+    "name": "Розовая гипсофила в коробке",
+    "image": "dostavka_cvetov_nedorogo.jpg",
+    "price": 1500,
+    "old_price": 1700,
+    "description": "7 гипсофил\nОформление\nКоробка",
+    "category": 629
+  },
+  {
+    "id": 2236,
+    "name": "Летний вечер",
+    "image": "cvety_zhivye_kompoziciya.jpg",
+    "price": 1500,
+    "old_price": 1700,
+    "description": "Гортензия\n5 роз\n3 кустовых хризантем\nЭустома\nДекоративная зелень\nКоробка",
+    "category": 629
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1826,
+    "name": "3 белые кустовые хризантемы",
+    "image": "3_kustovye_belye_hrizantemy_v_oformlenii.jpg",
+    "price": 750,
+    "old_price": 900,
+    "description": "3 кустовые хризантемы\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1827,
+    "name": "3 кустовые хризантемы",
+    "image": "3_kustovye_zhe_ltye_hrizantemy.jpg",
+    "price": 750,
+    "old_price": 900,
+    "description": "3 кустовые хризантемы (цвет в ассортименте)\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1829,
+    "name": "4 кустовых хризантемы",
+    "image": "3_kustovyh_belyh_hrizantemy.jpg",
+    "price": 900,
+    "old_price": 1050,
+    "description": "4 кустовых хризантемы ( цвета в ассортименте)\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1831,
+    "name": "5 белых гипсофил",
+    "image": "5_belyh_gipsofil_v_oformlenii.jpg",
+    "price": 900,
+    "old_price": 1100,
+    "description": "5 белых гипсофил\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1828,
+    "name": "5 кустовых хризантем",
+    "image": "3_kustovye_hrizantemy.jpg",
+    "price": 1100,
+    "old_price": 1300,
+    "description": "5 кустовых хризантем (цвета в ассортименте)\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1836,
+    "name": "7 роз в оформлении",
+    "image": "7_belyh_roz_v_oformlenii.jpg",
+    "price": 1200,
+    "old_price": 1400,
+    "description": "7 роз (цвета в ассортименте)\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1837,
+    "name": "7 белых роз",
+    "image": "7_belyh_roz.jpg",
+    "price": 1200,
+    "old_price": 1400,
+    "description": "7 белых роз\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1838,
+    "name": "7 бордовых роз",
+    "image": "7_bordovyh_shikarnyh_roz_v_oformlenii.jpg",
+    "price": 1200,
+    "old_price": 1400,
+    "description": "7 бордовых роз\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1841,
+    "name": "7 роз в оформлении",
+    "image": "buket_s_rozami.jpg",
+    "price": 1200,
+    "old_price": 1400,
+    "description": "7 бордовых роз ( цвета в ассортименте)\nОформление",
+    "category": 1823
+  },
+  {
+    "id": 1848,
+    "name": "7 белых роз",
+    "image": "9_belyh_roz_v_oformlenii.jpg",
+    "price": 1200,
+    "old_price": null,
+    "description": "7 белых роз (цвета в ассортименте)\nОформление",
+    "category": 1823
+  }
+]

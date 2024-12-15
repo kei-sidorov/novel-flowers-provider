@@ -1,0 +1,83 @@
+[
+  {
+    "id": 370,
+    "name": "Композиция Софи",
+    "image": "dostavka_cvety.jpg",
+    "price": 1300,
+    "old_price": 1500,
+    "description": "3 сортовых гвоздики\n3 розы кустовых \n3 альстромерии\n2 кустовых хризантемы\nДекоративная зелень\nКоробка",
+    "category": 69
+  },
+  {
+    "id": 2206,
+    "name": "Конверт с цветами",
+    "image": "kompoziciya_iz_zhivyh_cvetov.jpg",
+    "price": 1300,
+    "old_price": 1600,
+    "description": "3 розы\n2 кустовые хризантемы\nСтатица\nДекоративная зелень\nКоробка",
+    "category": 69
+  },
+  {
+    "id": 2216,
+    "name": "Сердце",
+    "image": "cvety_ryadom_kupit.jpg",
+    "price": 1300,
+    "old_price": 1500,
+    "description": "6 роз\n2 кустовых хризантемы\n3 хлопка\nДекор\nКоробка",
+    "category": 69
+  },
+  {
+    "id": 395,
+    "name": "Композиция Люблю",
+    "image": "cvety_nadpis_love.jpg",
+    "price": 1400,
+    "old_price": 1700,
+    "description": "6 роз\n3 ветки эустомы\n3 кустовых розы\nЯщик\n ",
+    "category": 69
+  },
+  {
+    "id": 369,
+    "name": "Композиция Варвара",
+    "image": "dostavka_cvetov.jpg",
+    "price": 1500,
+    "old_price": 1800,
+    "description": " 1 орхидея\n3 эустомы\n1 кустовая хризантема\nДекоративная зелень \nКоробка",
+    "category": 69
+  },
+  {
+    "id": 1402,
+    "name": "Дыхание леса",
+    "image": "cvety_florist.jpg",
+    "price": 1500,
+    "old_price": 2000,
+    "description": "3 подсолнуха\n7 альстромерий\n5 кустовых роз\nДекоративная зелень\nКорзина",
+    "category": 69
+  },
+  {
+    "id": 1409,
+    "name": "Зимние причуды",
+    "image": "cvety_v_derevyanom_yawike.jpg",
+    "price": 1700,
+    "old_price": 1900,
+    "description": "9 роз\n3 герберы\n7 альстромерий\n7 эустом\nРябина \nМимоза\nДекоративная зелень\nЯщик",
+    "category": 69
+  },
+  {
+    "id": 2018,
+    "name": "Голубой единорожка",
+    "image": "edinorog_s_cvetami.jpg",
+    "price": 1700,
+    "old_price": 2000,
+    "description": "2 сортовых гвоздики\n3 эустомы\nРанункулюс\n5 роз\n4 тюльпана\nЯщик",
+    "category": 69
+  },
+  {
+    "id": 2165,
+    "name": "Медвежонок с кустовыми хризантемами",
+    "image": "medved_s_kustovymi_hrizantemami.jpg",
+    "price": 1700,
+    "old_price": 1900,
+    "description": "11 кустовых хризантем\nБантик\nЯщик",
+    "category": 69
+  }
+]

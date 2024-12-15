@@ -1,0 +1,44 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.2 effective-5.10 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)
+// swift-module-flags: -target arm64-apple-ios18.1 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name NoveoFlowersProvider
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+import Foundation
+@_exported import NoveoFlowersProvider
+import Swift
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+public struct Category {
+  public let id: Swift.Int
+  public let name: Swift.String
+  public let image: Foundation.URL
+}
+public struct Item {
+  public let id: Swift.Int
+  public let name: Swift.String
+  public let image: Foundation.URL
+  public let description: Swift.String
+  public let oldPrice: Foundation.Decimal?
+  public let actualPrice: Foundation.Decimal
+  public var isFavorite: Swift.Bool
+}
+public protocol ItemsProvider {
+  func loadCategories(completion: @escaping (Swift.Result<[NoveoFlowersProvider.Category], any Swift.Error>) -> Swift.Void)
+  func loadItems(for categoryId: Swift.Int, completion: @escaping (Swift.Result<[NoveoFlowersProvider.Item], any Swift.Error>) -> Swift.Void)
+  func addToFavorites(itemId: Swift.Int, completion: @escaping (Swift.Result<Swift.Void, any Swift.Error>) -> Swift.Void)
+  func removeFromFavorites(itemId: Swift.Int, completion: @escaping (Swift.Result<Swift.Void, any Swift.Error>) -> Swift.Void)
+}
+extension NoveoFlowersProvider.Item : Swift.Decodable {
+  public init(from decoder: any Swift.Decoder) throws
+}
+extension NoveoFlowersProvider.Category : Swift.Decodable {
+  public init(from decoder: any Swift.Decoder) throws
+}
+public class FlowersItemsProvider : NoveoFlowersProvider.ItemsProvider {
+  public init(failProbability: Swift.Double = 0.3, delayRandomRange: Swift.ClosedRange<Swift.Double> = 0.3...2)
+  public func loadCategories(completion: @escaping (Swift.Result<[NoveoFlowersProvider.Category], any Swift.Error>) -> Swift.Void)
+  public func loadItems(for categoryId: Swift.Int, completion: @escaping (Swift.Result<[NoveoFlowersProvider.Item], any Swift.Error>) -> Swift.Void)
+  public func addToFavorites(itemId: Swift.Int, completion: @escaping (Swift.Result<Swift.Void, any Swift.Error>) -> Swift.Void)
+  public func removeFromFavorites(itemId: Swift.Int, completion: @escaping (Swift.Result<Swift.Void, any Swift.Error>) -> Swift.Void)
+  @objc deinit
+}

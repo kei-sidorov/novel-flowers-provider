@@ -1,0 +1,11 @@
+framework module NoveoFlowersProvider {
+  umbrella header "NoveoFlowersProvider.h"
+  export *
+
+  module * { export * }
+}
+
+module NoveoFlowersProvider.Swift {
+  header "NoveoFlowersProvider-Swift.h"
+  requires objc
+}
